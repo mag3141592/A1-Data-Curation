@@ -1,9 +1,20 @@
-### English Wikipedia Page Traffic Dec. 2007 - Sept. 2018
+# English Wikipedia Page Traffic Dec. 2007 - Sept. 2018
+
+![image](https://github.com/mag3141592/data-512-a1/blob/master/en-wikipedia_traffic_2000712-201809.png)  
 
 ## Goal
 This repository contains all files required for Human Centered Data Science's (DATA 512) "Assignment 1: Data Curation." The objective of this project is to retrieve, clean, and analyize English Wikipedia's page traffic. This project is intended to be fully reproducible, with more information available [here](https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)/Assignments#A1:_Data_curation).
-<center> https://github.com/mag3141592/data-512-a1/blob/master/en-wikipedia_traffic_2000712-201809.png <center>
+
+This project will walk you through accessing Wikimedia's REST APIs and retrieving 5 source files. Next, the data is cleaned and aggegrated to produce our final vizualition and [ccleaned data output](https://github.com/mag3141592/data-512-a1/blob/master/en-wikipedia_traffic_200712-201809.csv).
+
 ## Directory
+> data-512-a1/
+>> data/...                                       // 5 .json files containing the raw API response data 
+>> LICENSE                                        // a standard MIT license
+>> README.md                                      // what you're currently reading
+>> en-wikipedia_traffic_2000712-201809.png        // final visualization 
+>> en-wikipedia_traffic_2000712-201809.csv        // clean data
+>> hcds-al-data-curation.ipnb                     // source code
 
 ## Data Acquisition
 This project leverages two Wikimedia REST API endpoints:
