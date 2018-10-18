@@ -12,9 +12,9 @@ This project will walk you through accessing Wikimedia's REST APIs and retrievin
 >> data/... >> Contains 5 .json files containing the raw API response data. <br/>
 >> LICENSE  >> A standard MIT license. <br/>
 >> README.md >> What you're currently reading. <br/>
->> en-wikipedia_traffic_2000712-201809.png >> final visualization <br/>
->> en-wikipedia_traffic_2000712-201809.csv >> clean data <br/>
->> hcds-al-data-curation.ipnb >> source code <br/>
+>> en-wikipedia_traffic_2000712-201809.png >> The final visualization. <br/>
+>> en-wikipedia_traffic_2000712-201809.csv >> The cleaned data. <br/>
+>> hcds-al-data-curation.ipnb >> The source code. <br/>
 
 ## Data Acquisition
 This project leverages two Wikimedia REST API endpoints:
