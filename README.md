@@ -41,4 +41,4 @@ The columns have the following format:
 Again, this work is intended to be fully reproducible. This can be done by accessing the source [code](https://github.com/mag3141592/data-512-a1/blob/master/hcds-a1-data-curation.ipynb) and running the notebook. 
 
 ### Caution:
-* My data was last retrieved 10/17. Values and available data ranges are subject to change in the future.
+__My data was last retrieved 10/17. Values and available data ranges are subject to change in the future.__
